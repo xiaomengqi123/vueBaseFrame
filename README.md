@@ -1,4 +1,7 @@
 # reportform
+```
+ vue-cli3 + vant（按需引入）+ stylu + rem适配 +vueRouter
+```
 
 ## Project setup
 ```
